@@ -6,7 +6,7 @@
 -
 Создаем правило "Inject"
 -
-Нажимаем edit и вставляем туда скрипт (https://raw.githubusercontent.com/qbfiw/Big-Nigga-V3/main/Script)
+Нажимаем edit и вставляем туда скрипт (https://raw.githubusercontent.com/qbfiw/Big-Nigga-V3/main/Script) (ОБЯЗАТЕЛЬНО СОХРАНИТЕ!)
 -
 Обновляйте страницу и тапайте!
 
